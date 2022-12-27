@@ -1,3 +1,5 @@
+<img src="https://github.com/Hrishikesh332/BadgeApp/blob/master/banner.png">
+
 <h1 align="center">Hi 👋, I'm Hrishikesh Yadav</h1>
 <h3 align="center">I'm inclined towards the Data Analysis, Machine Learning, Deep Learning, Big Data, etc. My ultimate aim is to create something innovative and useful.</h3>
 
