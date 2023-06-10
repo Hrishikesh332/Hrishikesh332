@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Yadav</h1>
 <h3 align="center">I'm inclined towards the Data Analysis, Machine Learning, Deep Learning, Big Data, etc. My ultimate aim is to create something innovative and useful.</h3>
 
-- 🔭 I’m currently working on **CrimeDekho: To Reduce Crime Rates**
+- 🔭 I’m currently working on **AskScribe - Ask anything about your doc**
 
-- 🌱 I’m currently learning **Tensorflow & Django**
+- 🌱 I’m currently learning **Langchain and Pytorch**
 
-- 👯 I’m looking to collaborate on **Data Analysis & Machine Learning**
+- 👯 I’m looking to collaborate on **Data Analysis, Machine Learning & Generative AI**
 
 - 💬 Ask me about **Data Science & Machine Learning**
 
