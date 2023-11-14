@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis, Machine Learning & Generative AI**
 
-- 💬 Ask me about **Data Science & Machine Learning**
+- 💬 Ask me about **Data Science, Machine Learning & Applied Generative AI**
 
 - 📫 How to reach me **hrishikesh3321@gmail.com**
 
