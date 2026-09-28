@@ -9,12 +9,6 @@
 
 - 🧩 My work extends beyond multimodal AI—from **time-series modeling and deep learning frameworks for video to blockchain and DeFi applications powered by AI agents**
 
-- 🌱 I’m currently exploring **multimodal embeddings, agentic workflows, and efficient model training**
-
-- 🎤 I share what I build, experiment and learn through **talks, workshops, tutorials, and technical writing**
-
-- 🏅 I’m a **2× Kaggle Expert** in competitions and notebooks
-
 - ⏪ Previously, I worked as an **AI Engineer at Shaga Labs**
 
 - 📫 Reach me at **hrishikesh3321@gmail.com**
@@ -48,7 +42,7 @@ Selected projects across multimodal video intelligence, applied AI systems, and 
       <h3>⚖️ Multi-Source Legal Evidence</h3>
       <p>Unifies video and document retrieval for evidence search, entity tracking, timeline reconstruction, and compliance reporting.</p>
       <p><code>Hybrid Retrieval</code> <code>AWS Bedrock</code> <code>NeMo</code></p>
-      <a href="https://www.twelvelabs.io/blog/legal-evidence-investigator"><strong>Read the technical deep-dive →</strong></a>
+      <a href="https://github.com/Hrishikesh332/tl-compliance-intelligence"><strong>Explore repository →</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>🩻 Federated Chest X-Ray Classification</h3>
