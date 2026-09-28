@@ -3,12 +3,6 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Yadav</h1>
 <h3 align="center">Core AI Engineer | Machine Learning & Deep Learning | Multimodal AI & Video Understanding</h3>
 
-<p align="center">
-  <a href="https://www.hrishikeshai.com/"><strong>🌐 View My Portfolio</strong></a>
-</p>
-
-- 🤖 I work as an **AI Researcher & Developer Advocate at Twelve Labs**, translating research into reliable AI systems and developer-facing applications
-
 - 🔭 I’m currently building **AI-powered products for video search, analysis, deep research, and multimodal retrieval**
 
 - 🧠 My core experience spans **Machine Learning, Deep Learning, Computer Vision, neural networks, model fine-tuning, optimization, and production inference**
@@ -16,10 +10,6 @@
 - 🧩 My work extends beyond multimodal AI—from **time-series modeling and deep learning frameworks for video to blockchain and DeFi applications powered by AI agents**
 
 - 🌱 I’m currently exploring **multimodal embeddings, agentic workflows, and efficient model training**
-
-- 👯 I’m looking to collaborate on **Core ML/DL, Time Series, Multimodal AI, Video Intelligence, Generative AI, AI Agents, and Blockchain/DeFi**
-
-- 💬 Ask me about **Machine Learning, Deep Learning, Video Understanding, Applied Generative AI, and AI Backend Systems**
 
 - 🎤 I share what I build, experiment and learn through **talks, workshops, tutorials, and technical writing**
 
